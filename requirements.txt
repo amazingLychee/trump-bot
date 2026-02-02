@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-community
+chromadb
+python-dotenv
+tiktoken
+
+# 新增：用于Streamlit界面（可选）
+streamlit
